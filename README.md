@@ -17,7 +17,7 @@ This server allows users to **login** and obtain a **JWT token**, which can then
 
 ### 📋 **Postman Example:**
 
-Here's a simple guide for **Postman**:
+Here's a guide for **Postman**:
 1. **Login**: Send a `POST` request to `http://localhost:3000/login` with the credentials in JSON.
 
 - **Method**: `POST`
